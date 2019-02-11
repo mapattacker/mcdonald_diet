@@ -6,4 +6,4 @@ McDonald's list their nutritional values of each of their food items. However, i
 
 `Tableau Dashboard`: Using the created excel, create a Tableau dashboard. https://public.tableau.com/profile/jake4288#!/vizhome/mac_0/Dashboard
 
-![Alt text](https://github.com/mcdonald_diet/toto/blob/master/mcdonalds.png)
+![Alt text](https://github.com/mapattacker/mcdonald_diet/blob/master/mcdonalds.png)
